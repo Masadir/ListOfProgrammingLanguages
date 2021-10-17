@@ -116,6 +116,29 @@
 1969;SETL;Jack Schwartz at Courant Institute of Mathematical Sciences
 1969;TUTOR;Paul Tenczar & University of Illinois at Urbana–Champaign
 1969;Edinburgh IMP;Edinburgh University
+2011;C++11;C++ ISO/IEC 14882:2011
+2011;Kotlin;JetBrains
+2011;Red;Nenad Rako?evi?
+2011;Opa;MLstate
+2012;Elixir;Jos? Valim
+2012;Elm;Evan Czaplicki
+2012;TypeScript;Anders Hejlsberg, Microsoft
+2012;Julia;Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman, MIT
+2012;P;Vivek Gupta, Ethan Jackson, Shaz Qadeer, Sriram Rajamani, Microsoft
+2012;Ada 2012;ARA and Ada Europe (ISO/IEC 8652:2012)
+2013;P4;P4 Language Consortium (P4.org)
+2013;PureScript;Phil Freeman
+2013;Hopscotch;Hopscotch Technologies
+2013;Cuneiform;J?rgen Brandt
+2014;Crystal;Ary Borenszweig, Manas Technology Solutions
+2014;Hack;Facebook
+2014;Swift;Apple Inc.
+2014;C++14;C++ ISO/IEC 14882:2014
+2015;Raku;Larry Wall, The Rakudo Team
+2015;Zig;Andrew Kelley
+2016;Reason;Jordan Walke
+2017;C++17;C++ ISO/IEC 14882:2017
+2017;Ballerina;WSO2, Open Source[15]
 1970;Forth (implementation);Charles H. Moore
 1970;POP-2;Robin Popplestone
 1970;SAIL;Dan Swinehart and Bob Sproull
@@ -347,6 +370,114 @@
 2005;PWCT;Mahmoud Samir Fayed
 2005;Seed7;Thomas Mertes
 2006;Cobra;ChuckEsterbrook
+1948;CPC Coding scheme;Howard H. Aiken
+1948;Curry notation system;Haskell Curry
+1948;Plankalkul (year of concept publication);Konrad Zuse
+1949;EDSAC Initial Orders;David Wheeler
+1949;Short Code;John Mauchly and William F. Schmitt
+1950;Short Code;William F. Schmidt, Albert B. Tonik, J. R. Logan
+1950;Birkbeck Assembler;Kathleen Booth
+1951;Superplan;Heinz Rutishauser
+1951;ALGAE;Edward A. Voorhees and Karl Balke
+1951;Intermediate Programming Language;Arthur Burks
+1951;Regional Assembly Language;Maurice Wilkes
+1951;Boehm unnamed coding system;Corrado B?hm
+1951;Klammerausdr?cke;Konrad Zuse
+1951;OMNIBAC Symbolic Assembler;Charles Katz
+1951;Stanislaus (Notation);Fritz Bauer
+1951;Whirlwind assembler;Charles Adams and Jack Gilmore at MIT Project Whirlwind
+1951;Rochester assembler;Nat Rochester
+1951;Sort Merge Generator;Betty Holberton
+1952;A-0;Grace Hopper
+1952;Glennie Autocode;Alick Glennie after Alan Turing
+1952;Operator programming;Alexey Andreevich Lyapunov with the participation Kateryna Yushchenko
+1952;Editing Generator;Milly Koss
+1952;COMPOOL;RAND/SDC
+1953;Speedcoding;John W. Backus
+1953;READ/PRINT;Don Harroff, James Fishman, George Ryckman
+1954;Laning and Zierler system;Laning, Zierler, Adams at MIT Project Whirlwind
+1954;Mark I Autocode;Tony Brooker
+1954;FORTRAN (concept);Team led by John W. Backus at IBM
+1954;ARITH-MATIC;Team led by Grace Hopper at UNIVAC
+1954;MATH-MATIC;Team led by Charles Katz
+1954;MATRIX MATH;H G Kahrimanian
+1954;IPL I (concept);Allen Newell, Cliff Shaw, Herbert A. Simon
+1955;Address programming language;Kateryna Yushchenko
+1955;FLOW-MATIC;Team led by Grace Hopper at UNIVAC
+1955;BACAIC;M. Grems and R. Porter
+1955;PACT I;SHARE
+1955;Freiburger Code;University of Freiburg
+1955;Sequentielle Formel?bersetzung;Fritz Bauer and Karl Samelson
+1955;IT;Team led by Alan Perlis
+1955;PRINT;IBM
+1958;IPL II (implementation);Allen Newell, Cliff Shaw, Herbert A. Simon
+1956;LISP (concept);John McCarthy
+1957;COMTRAN;Bob Bemer
+1957;GEORGE;Charles Leonard Hamblin
+1957;FORTRAN I (implementation);John W. Backus at IBM
+1957;UNICODE;Remington Rand UNIVAC
+1957;COMIT (concept);Victor Yngve
+1958;FORTRAN II;Team led by John W. Backus at IBM
+1958;ALGOL 58 (IAL);ACM/GAMM
+1958;IPL V;Allen Newell, Cliff Shaw, Herbert A. Simon
+1959;APT;Douglas T. Ross
+1959;FACT;Fletcher R. Jones, Roy Nutt, Robert L. Patrick
+1959;COBOL (concept);The CODASYL Committee
+1959;JOVIAL;Jules Schwartz at SDC
+1959;LISP (implementation);John McCarthy
+1959;MAD – Michigan Algorithm Decoder;Bruce Arden, Bernard Galler, and Robert M. Graham
+1959;TRAC (concept);Calvin Mooers
+1960;ALGOL 60;Unknown
+1960;COBOL 61 (implementation);The CODASYL Committee
+1961;COMIT (implementation);Victor Yngve
+1961;GPSS;Geoffrey Gordon, IBM
+1962;FORTRAN IV;IBM
+1962;APL (concept);Kenneth E. Iverson
+1962;Simula (concept);Unknown
+1962;SNOBOL;Ralph Griswold, et al.
+1963;CPL (concept);Barron, Christopher Strachey, et al.
+1963;SNOBOL3;Griswold, et al.
+1963;ALGOL 68 (concept);Adriaan van Wijngaarden, et al.
+1963;JOSS I;Cliff Shaw, RAND
+1964;MIMIC;H. E. Petersen, et al.
+1964;COWSEL;Rod Burstall, Robin Popplestone
+1964;PL/I (concept);IBM
+1964;BASIC;John George Kemeny and Thomas Eugene Kurtz at Dartmouth College
+1964;IBM RPG;IBM
+1964;Mark-IV;Informatics
+1964;Speakeasy-2;Stanley Cohen at Argonne National Laboratory
+1964;TRAC (implementation);Calvin Mooers
+1964;P";Corrado Bohm
+1964;IITRAN;Unknown
+1965;RPG II;IBM
+1965;MAD/I (concept);University of Michigan
+1965;TELCOMP;BBN
+1965;Atlas Autocode;Tony Brooker, Derrick Morris at Manchester University
+1966;JOSS II;Chuck Baker, RAND
+1966;ALGOL W;Niklaus Wirth, C. A. R. Hoare
+1966;FORTRAN 66;Unknown
+1966;ISWIM (Concept);Peter J. Landin
+1966;CORAL66;Unknown
+1966;APL (implementation);Kenneth E. Iverson
+1967;BCPL;Martin Richards
+1967;MUMPS;Massachusetts General Hospital
+1967;Simula 67 (implementation);Ole-Johan Dahl, Bj?rn Myhrhaug, Kristen Nygaard at Norsk Regnesentral
+1967;InterLisp;D.G. Bobrow and D.L. Murphy
+1967;EXAPT;Herwart Opitz, Wilhelm Simon, G?nter Spur, and Gottfried Stute at RWTH Aachen University and TU Berlin
+1967;SNOBOL4;Ralph Griswold, et al.
+1967;XPL;"William M. McKeeman, et al. at University of California, Santa Cruz, J. J. Horning, et al. at Stanford University"
+1967;Space Programming Language (SPL);System Development Corporation
+1968;ALGOL 68 (UNESCO/IFIP standard);Adriaan van Wijngaarden, Barry J. Mailloux, John E. L. Peck and Cornelis H. A. Koster, et al.
+1968;POP-1;Rod Burstall, Robin Popplestone
+1968;DIBOL-8;DEC
+1968;Forth (concept);Moore
+1968;LOGO;Wally Feurzeig, Seymour Papert, Cynthia Solomon
+1968;MAPPER;Unisys
+1968;REFAL (implementation);Valentin Turchin
+1968;TTM (implementation);Steven Caine and E. Kent Gordon, California Institute of Technology
+1968;PILOT;John Amsden Starkweather, University of California, San Francisco
+1969;PL/I (implementation);IBM
+1969;B;Ken Thompson, with contributions from Dennis Ritchie
 2006;Windows PowerShell;Microsoft
 2006;OptimJ;Ateji
 2006;Fortress;Guy Steele
@@ -400,4 +531,10 @@
 2018;Fortran 2018;ISO/IEC JTC1/SC22/WG5 N2150:2018
 2019;Bosque;Mark Marron, Microsoft
 2020;C++20;C++ ISO/IEC 14882:2020
+1804;Jacquard machine;Joseph Marie Jacquard
+1943;Plankalkul;Konrad Zuse
+1943;ENIAC coding system;John von Neumann,John Mauchly,J. Presper Eckert,Herman Goldstine after Alan Turing. The first programmers of ENIAC were Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Meltzer, Fran Bilas, and Ruth Lichterman.
+1946;ENIAC Short Code;Richard Clippinger,John von Neumann after Alan Turing
+1946;Von Neumann and Goldstine graphing system (Notation);John von Neumann and Herman Goldstine
+1947;ARC Assembly;Kathleen Booth
 2021;Microsoft Power Fx;Vijay Mital, Robin Abraham, Shon Katzenberger, Darryl Rubin, Microsoft
