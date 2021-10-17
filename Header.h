@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #pragma once
 #include <iostream>
 #include <string>
@@ -5,16 +6,22 @@
 #include <string.h>
 using namespace std;
 
+// structure with haracteristics of the data
 struct listOfLanguages {
     int year;
     string name;
     string creator;
 };
 
-struct list {
-    listOfLanguages l;
-    list* next;
+// pointers structure of next language
+struct myList {
+    listOfLanguages language;
+    myList* next;
 };
 
-void addElement(list** u, listOfLanguages& x);
-void print(list* u);
+void consoleMenu();
+void addElement(myList** u, listOfLanguages& x);
+void readFromFile(myList* u);
+void printElements(myList* u);
+void elementCreation(myList** u, int year, string name, string creator);
+inline bool isFileExist(const std::string& name);
