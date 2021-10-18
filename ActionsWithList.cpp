@@ -10,6 +10,7 @@ void printElements(myList* u) {
         cout << endl;
         listElement = listElement->next;
     }
+    delete listElement;
 }
 
 // add new element in to a correct place in a list depending on its year of creation

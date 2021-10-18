@@ -11,6 +11,7 @@ int main() {
     consoleMenu();
     myList* u = NULL; // pointer to the beginning of list
     readFromFile(u);
+    delete u;
     cout << "End of program" << endl;
     return 0;
 }

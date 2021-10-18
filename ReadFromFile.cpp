@@ -17,13 +17,14 @@ void readFromFile(myList* u) {
                 char arr[size];
                 strcpy(arr, line.c_str());
                 char* ptr = 0;
+                delete ptr;
                 ptr = strtok(arr, ";");
                 char* year = ptr;
                 ptr = strtok(0, ";");
                 string name = ptr;
                 ptr = strtok(0, ";");
                 string creator = ptr;
-
+               
                 int intYear = stoi(year);
                 elementCreation(&u, intYear, name, creator);
             }
